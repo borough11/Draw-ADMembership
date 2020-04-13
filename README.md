@@ -14,9 +14,10 @@ This script will import the required modules and function and then output an HTM
 4. Run Draw-ADMembership.ps1 -LookupMember "person.name" Or Draw-ADMembership.ps1 -LookupMember "ad group name"
 
 
-## Draw-ADGroupMember2.ps1
+~~## Draw-ADGroupMember2.ps1~~
 
-This script will import the required modules and function and then output an HTML file containing a diagram and datagrid of the groups that are members of the -LookupMember, starting at the -Domain passed into to the script.
+~~This script will import the required modules and function and then output an HTML file containing a diagram and datagrid of the groups that are members of the -LookupMember, starting at the -Domain passed into to the script.~~
+not uploaded yet
 
 
 ### How can I use this?!
