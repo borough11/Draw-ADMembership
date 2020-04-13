@@ -31,6 +31,7 @@ This script will import the required modules and function and then output an HTM
 
 These amazing visual diagrams like people's/group's membership...
 
+![Draw-ADMembership](https://github.com/borough11/Draw-ADMembership/blob/master/Draw%20AD%20Membership.png?raw=true "Draw-ADMembership")
 
 Along with a searchable, sortable, reorderable, exportable view of the entire result object (basically what the PowerShell Get-*** functions output)...
 
