@@ -25,7 +25,7 @@ This script will import the required modules and function and then output an HTM
 ~~1. Create a new folder wherever you keep your PowerShell scripts - "Draw-ADGroupMember2"~~
 ~~2. Copy the 2 files attached to this post "Get-ADGroupMember2.ps1" and "Draw-ADGroupMember2.ps1" into that folder~~
 ~~3. Start a PowerShell session, CD to your PowerShell scripts folder\Draw-ADGroupMember2\~~
-~~4. Run Draw-ADGroupMember2.ps1 -LookupMember "ad group name" -Domain nzme.co.nz~~
+~~4. Run Draw-ADGroupMember2.ps1 -LookupMember "ad group name" -Domain domainname.co.nz~~
 ***not uploaded yet***
 
 ## And what do I get?
